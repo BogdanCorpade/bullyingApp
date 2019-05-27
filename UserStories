@@ -1,0 +1,23 @@
+Admin Role
+ - Create Therapyst
+ - Can view Modules
+ - Cannot select Child
+
+Therapyst
+ - Create Child and Parent
+ - Select Child or Parent
+ - Can view Childs Work
+ - Can Chat with the child
+ - Can leave offline messages
+ - Can edit childs work
+ - Can see parent's survey
+ - When to Recieve mail??
+ Parent
+ -Acces to bullying documentation
+ -Complete survey
+ Child
+  - Complete modules
+  - See work progress
+  - Chat with Therapyst
+  
+ 
